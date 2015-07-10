@@ -16,8 +16,6 @@ Download the ebook or run the scraper yourself.
 2. Install dependencies
 
 ```command
-gem install uri
-gem install open-uri
 gem install nokogiri
 ```
 
